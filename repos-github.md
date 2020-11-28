@@ -503,6 +503,7 @@
 - japgolly/scala-graal
 - japgolly/test-state
 - japgolly/univeq
+- jasongoodwin/authentikat-jwt
 - jatcwang/doobieroll
 - jcouyang/dhall-generic
 - jcouyang/jujiu
